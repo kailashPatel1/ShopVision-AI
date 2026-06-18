@@ -4,7 +4,7 @@
 
 ShopVision AI is an end-to-end Data Science and Machine Learning powered retail analytics platform designed to help businesses make data-driven decisions through predictive analytics, customer segmentation, and sales forecasting.
 
-The platform combines Business Intelligence, Machine Learning, and Data Analytics techniques to transform raw retail data into actionable business insights.
+The platform combines Artificial Intelligence and Machine Learning, Business Intelligence,  and Data Analytics techniques to transform raw retail data into actionable business insights.
 
 ---
 
