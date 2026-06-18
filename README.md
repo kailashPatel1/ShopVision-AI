@@ -151,7 +151,6 @@ Forecasts future business revenue using historical sales trends.
 * NumPy
 * Matplotlib
 * Scikit-Learn
-* Statsmodels
 
 ### Machine Learning
 
@@ -164,17 +163,15 @@ Forecasts future business revenue using historical sales trends.
 
 * Flask
 * Flask-SQLAlchemy
-* Flask-Login
 
 ### Database
 
 * PostgreSQL
-* SQLite (Fallback)
 
 ### Frontend
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Bootstrap 5
 * JavaScript
 
@@ -196,7 +193,6 @@ ShopVision AI helps organizations:
 ## Future Enhancements
 
 * Random Forest Regression
-* XGBoost Models
 * Deep Learning Forecasting
 * Recommendation System
 * Real-Time Data Pipelines
