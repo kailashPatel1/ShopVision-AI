@@ -199,7 +199,7 @@ ShopVision AI helps organizations:
 * Cloud Deployment
 * Automated Business Reporting
 * Advanced Customer Analytics
-____
+  - - -
 ## Author
 
 Kailash
